@@ -1,0 +1,12 @@
+.Draft {
+  width: 48%;
+  height: 95%;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  justify-content: space-between;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 0 7px 1px var(--primary);
+}
