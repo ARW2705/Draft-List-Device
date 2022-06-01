@@ -1,0 +1,12 @@
+.Header {
+  height: 10vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: end;
+  padding: 0 1% 1%;
+}
+
+.loader-wrapper {
+  width: 100%;
+}
