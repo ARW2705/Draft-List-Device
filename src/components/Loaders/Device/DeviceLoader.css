@@ -1,0 +1,9 @@
+.DeviceLoader {
+  margin: 0;
+  align-self: center;
+  font-size: 2.5rem;
+}
+
+.DeviceLoader > .device-dots {
+  margin-top: 2.5rem;
+}
